@@ -35,7 +35,7 @@ Key Insights
 * Sales distribution by category
 
 Project Repository:
-https://github.com/yourusername/Coffee-sales-dashboard
+https://github.com/K-u-r-a/Coffee-sales-dashboard
 
 
  Future Projects
@@ -54,3 +54,4 @@ LinkedIn: https://www.linkedin.com/in/kura-chepkemoi-066925263/
 Email: kurachepkemoi@gmail.com
 
 ⭐ Thank you for visiting my portfolio.
+
